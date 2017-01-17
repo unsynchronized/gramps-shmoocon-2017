@@ -3,6 +3,7 @@ These are the presentations and files I used in my ShmooCon 2017 presentation ab
 The original Keynote file is [shmoocon-amps.key](shmoocon-amps.key).
 
 I've exported it to PDF with presenter notes here: [shmoocon-amps-withnotes.pdf](shmoocon-amps-withnotes.pdf)
+
 There's also a version with no notes: [shmoocon-amps.pdf](shmoocon-amps.pdf)
 
 The [shmoocon-amps-html](shmoocon-amps-html) directory contains an HTML version of the presentation, but as with all machine-generated HTML, you should probably steer clear.
